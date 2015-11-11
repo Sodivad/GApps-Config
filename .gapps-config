@@ -1,0 +1,23 @@
+﻿#Zu benutzen mit StockPackage, funktioniert auch mit größeren Packages (Super) 
+StockGApps 
+
+
+Exclude
+#Sachen angeben die man vom Installieren ausschließen will
+CalculatorGoogle   #Gleicher wie bei CM?
+ClockGoogle        
+Fitness
+CameraGoogle
+ContactsGoogle
+DialerGoogle
+KeyboardGoogle
+Messenger
+
+#Trotzdem Stock Apps behalten
++Launcher
++PicoTTS
++Email
++MMS
++Gallery
++Browser
++WebViewStock
