@@ -4,6 +4,7 @@ StockGApps
 
 Exclude
 #Sachen angeben die man vom Installieren ausschließen will
+DialerFramework #google dialer will ich ja eh nicht
 CalculatorGoogle   #Gleicher wie bei CM?
 ClockGoogle        
 Fitness
@@ -17,7 +18,7 @@ Messenger
 +Launcher
 +PicoTTS
 +Email
++Browser
 +MMS
 +Gallery
-+Browser
 +WebViewStock
